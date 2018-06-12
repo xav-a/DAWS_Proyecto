@@ -1,2 +1,6 @@
-# DAWS_Proyecto
-Proyecto DAWS 1S 2018
+# Proyecto DAWS 1S 2018
+Grupo 7 - Integrantes:
+* Xavier Andrade
+* Anibal Gamboa
+
+
