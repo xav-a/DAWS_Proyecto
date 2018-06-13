@@ -1,2 +1,11 @@
 /* CSS Stylesheet */
 
+header > h1,h2{
+    text-align: center;
+
+}
+
+footer img{
+    width: 25%;
+    align-items: left;
+}
