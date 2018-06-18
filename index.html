@@ -7,6 +7,7 @@
 				<link rel="stylesheet" href="bs/css/bootstrap-grid.css">
 				<link rel="stylesheet" href="css/proyecto.css">
 				<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+				<script src="js/app.js"></script> 
 
 
 		</head>
@@ -36,14 +37,27 @@
 
 					<div class="row">
 						<div class="col-3">
-							<div class="vertical-menu">
-								<a href="#">Home</a>
-								<a href="#">Resumen General</a>
-								<a href="#">Datos por Cantón</a>
-								<a href="#">Resultados</a>
+							<div class="tab">
+								<button class="tablinks" onclick="showTab(event, 'home')" id="defaultOpen">home</button>
+								<button class="tablinks" onclick="showTab(event, 'Resumen')">Resumen General</button>
+								<button class="tablinks" onclick="showTab(event, 'Datos')">Datos por Canton</button>
+								<button class="tablinks" onclick="showTab(event, 'Resultados')">Resultados</button>
 							</div>	
 						</div>
 						<div class="col-9">
+							<div id="home" class="tabcontent">
+								home
+							</div>
+							<div id="Resumen" class="tabcontent">
+								resumen
+							</div>
+							<div id="Datos" class="tabcontent">
+								datos 
+							</div>
+							<div id="Resultados" class="tabcontent">
+								resultados
+							</div>
+								
 
 						</div>
 					</div>
@@ -68,5 +82,8 @@
 						</div>
 					</div>
 				</div>
+				<script>
+					document.getElementById("defaultOpen").click();
+				</script>
 		</body>
 </html>
