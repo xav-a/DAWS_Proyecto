@@ -6,6 +6,8 @@
 				<link rel="stylesheet" href="bs/css/bootstrap.css">
 				<link rel="stylesheet" href="bs/css/bootstrap-grid.css">
 				<link rel="stylesheet" href="css/proyecto.css">
+				<link rel="stylesheet" href="js/html5-simple-date-input-polyfill.css" />
+
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		</head>
@@ -40,7 +42,7 @@
 								<div class="form-group row">
 									<label for="nombres" class="col-2 col-form-label">Nombres:</label>
 									<div class="col-10">
-										<input type="text" class="form-control" id="example-text-input" placeholder="Ingrese su Nombre">
+										<input type="text" class="form-control" id="nombres" placeholder="Ingrese su Nombre">
 									</div>
 								</div>
 								<div class="form-group row" >
@@ -52,18 +54,19 @@
 								<div class="form-group row">
 									<label for="fecha" class="col-2 col-form-label">Edad:</label>
 									<div class="col-10">
+										<script src="js/html5-simple-date-input-polyfill.min.js"></script>
 										<input class="form-control" type="date"  id="fecha">
 									</div>
 								</div>
 
 								<div class="form-group row">
-									<label for="Email" class="col-2 col-form-label">Email:</label>
+									<label for="email" class="col-2 col-form-label">Email:</label>
 									<div class="col-10">
-										<input class="form-control" type="email"  id="Email" placeholder="Ingrese su Email">
+										<input class="form-control" type="email"  id="email" placeholder="Ingrese su Email">
 									</div>
 								</div>
 								<div class="form-group row">
-									<label for="Comentario" class="col-2 col-form-label">Comentario: </label>
+									<label for="comentario" class="col-2 col-form-label">Comentario: </label>
 									<div class="col-10">
 										<textarea class="form-control" id="comentario" rows="3"></textarea>
 									</div>  
