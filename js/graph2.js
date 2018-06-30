@@ -1,23 +1,29 @@
 
-$("div#Resumen").append($("<div>", {id:"bar", class: "col-sm-4"}));
+//$("div#Resumen").append($("<div>", {id:"bar", class: "col-sm-4"}));
 
-var width = $("div#bar").parent().width() * 0.75;
-var height = $("div#bar").parent().height() * 0.75;
+var width = $("div#Resumen").width() * 0.75;
+var height = $("div#Resumen").height() * 0.75;
 
 //----
 
-const svg2 = d3.select("div#bar").append("svg").attr("id","sbar")
-    .attr("width",width)
-    .attr("height",height),
-    margin = {top: 20, right: 20, bottom: 30, left: 80};
+const svg2 = d3.select("div#Resumen").append("svg")
+	.attr("id","sbar")
+	.attr("width", '60%')
+    .attr("height", '100%')
+	.attr('viewBox',-1*Math.min(width,height)/3.5 +' '+-1*Math.min(width,height)/10+ ' '+Math.min(width,height) +' '+Math.min(width,height)*1.25 )
+    .attr('preserveAspectRatio','xMinYMin')
+	//.attr("transform", "translate(" + Math.min(width,height) / 2 + "," + Math.min(width,height) / 2 + ")")
+    ,margin = {top: 20, right: 20, bottom: 30, left: 80};
   
-const tooltip = d3.select("div#bar").append("div").attr("class", "tooltip");
+const tooltip = d3.select("svg#sbar").append("div")
+	.attr("class", "tooltip")
+	.attr("height", "100%")
+	.attr("z-index", "1");
   
-var x = d3.scaleLinear().range([0, width]);
+var x = d3.scaleLinear().range([0, width*0.6]);
 var y = d3.scaleBand().range([height, 0]);
 
-const g2 = svg2.append("g")
-		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+const g2 = svg2.append("g");
   
 d3.json("../data/dat2.json", function(error, data) {
   	if (error) throw error;
@@ -35,7 +41,10 @@ d3.json("../data/dat2.json", function(error, data) {
     g2.append("g")
         .attr("class", "y axis")
         .call(d3.axisLeft(y));
-
+	
+	
+	var color = d3.scaleOrdinal(d3.schemeCategory10);
+	
     g2.selectAll(".bar")
         .data(data)
       .enter().append("rect")
@@ -44,6 +53,7 @@ d3.json("../data/dat2.json", function(error, data) {
         .attr("height", y.bandwidth())
         .attr("y", function(d) { return y(d.area); })
         .attr("width", function(d) { return x(d.value); })
+		.attr("fill", function(d, i){ return color(i)})
         .on("mousemove", function(d){
             tooltip
               .style("left", d3.event.pageX - 50 + "px")

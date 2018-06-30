@@ -1,14 +1,18 @@
 
-$("div#Resumen").append($("<div>", {id:"pie", class: "col-sm-4"}));
+//$("div#Resumen").append($("<div>", {id:"pie", class: "col-sm-4"}));
 
-var width = $("div#pie").parent().width() * 0.75;
-var height = $("div#pie").parent().height() * 0.75;
+var width = $("div#Resumen").width() * 0.75;
+var height = $("div#Resumen").height() * 0.75;
 var radius = Math.min(width, height) /2;
 
-const svg = d3.select("div#pie").append("svg").attr("id","spie")
-    .attr("width",width)
-    .attr("height",height),
-    g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+const svg = d3.select("div#Resumen").append("svg")
+	.attr("id","spie")
+	.attr("width", '40%')
+    .attr("height", '100%')
+	.attr('viewBox',-1*Math.min(width,height)/1.75 +' '+-1*Math.min(width,height)/1.75+ ' '+Math.min(width,height)*1.25 +' '+Math.min(width,height)*1.25 )
+    .attr('preserveAspectRatio','xMinYMin')
+	//.attr("transform", "translate(" + Math.min(width,height) / 2 + "," + Math.min(width,height) / 2 + ")")
+    ,g = svg.append("g");
 
 var color = d3.scaleOrdinal(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
