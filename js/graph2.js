@@ -8,7 +8,7 @@ var height = $("div#Resumen").height() * 0.75;
 
 const svg2 = d3.select("div#Resumen").append("svg")
 	.attr("id","sbar")
-	.attr("width", '60%')
+	.attr("width", '100%')
     .attr("height", '100%')
 	.attr('viewBox',-1*Math.min(width,height)/3.5 +' '+-1*Math.min(width,height)/10+ ' '+Math.min(width,height) +' '+Math.min(width,height)*1.25 )
     .attr('preserveAspectRatio','xMinYMin')
