@@ -1,4 +1,4 @@
-
+(function() {
 //$("div#Resumen").append($("<div>", {id:"bar", class: "col-sm-4"}));
 
 var width = $("div#Resumen").width() * 0.75;
@@ -18,10 +18,10 @@ const svg2 = d3.select("div#Resumen").append("svg")
 const tooltip = d3.select("svg#sbar").append("div")
 	.attr("class", "tooltip")
 	.attr("height", "100%")
-	.attr("z-index", "1");
+	.style("z-index", "1");
   
-var x = d3.scaleLinear().range([0, width*0.6]);
-var y = d3.scaleBand().range([height, 0]);
+const x2 = d3.scaleLinear().range([0, width*0.6]);
+const y2 = d3.scaleBand().range([height, 0]);
 
 const g2 = svg2.append("g");
   
@@ -30,17 +30,17 @@ d3.json("../data/dat2.json", function(error, data) {
   
   	data.sort(function(a, b) { return a.value - b.value; });
   
-  	x.domain([0, d3.max(data, function(d) { return d.value; })]);
-    y.domain(data.map(function(d) { return d.area; })).padding(0.1);
+  	x2.domain([0, d3.max(data, function(d) { return d.value; })]);
+    y2.domain(data.map(function(d) { return d.area; })).padding(0.1);
 
     g2.append("g")
-        .attr("class", "x axis")
+        //.attr("class", "x axis")
        	.attr("transform", "translate(0," + height + ")")
-      	.call(d3.axisBottom(x).ticks(5).tickFormat(function(d) { return parseInt(d / 1000); }).tickSizeInner([-height]));
+      	.call(d3.axisBottom(x2).ticks(5).tickFormat(function(d) { return parseInt(d / 1000); }).tickSizeInner([-height]));
 
     g2.append("g")
-        .attr("class", "y axis")
-        .call(d3.axisLeft(y));
+        //.attr("class", "y axis")
+        .call(d3.axisLeft(y2));
 	
 	
 	var color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -50,9 +50,9 @@ d3.json("../data/dat2.json", function(error, data) {
       .enter().append("rect")
         .attr("class", "bar")
         .attr("x", 0)
-        .attr("height", y.bandwidth())
-        .attr("y", function(d) { return y(d.area); })
-        .attr("width", function(d) { return x(d.value); })
+        .attr("height", y2.bandwidth())
+        .attr("y", function(d) { return y2(d.area); })
+        .attr("width", function(d) { return x2(d.value); })
 		.attr("fill", function(d, i){ return color(i)})
         .on("mousemove", function(d){
             tooltip
@@ -63,4 +63,4 @@ d3.json("../data/dat2.json", function(error, data) {
         })
     		.on("mouseout", function(d){ tooltip.style("display", "none");});
 });
-
+})();

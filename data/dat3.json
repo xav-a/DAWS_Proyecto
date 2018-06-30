@@ -1,0 +1,2462 @@
+[
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2000",
+    "price": 39.81
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2000",
+    "price": 36.35
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2000",
+    "price": 43.22
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2000",
+    "price": 28.37
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2000",
+    "price": 25.45
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2000",
+    "price": 32.54
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2000",
+    "price": 28.4
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2000",
+    "price": 28.4
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2000",
+    "price": 24.53
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2000",
+    "price": 28.02
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2000",
+    "price": 23.34
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2000",
+    "price": 17.65
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2001",
+    "price": 24.84
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2001",
+    "price": 24
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2001",
+    "price": 22.25
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2001",
+    "price": 27.56
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2001",
+    "price": 28.14
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2001",
+    "price": 29.7
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2001",
+    "price": 26.93
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2001",
+    "price": 23.21
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2001",
+    "price": 20.82
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2001",
+    "price": 23.65
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2001",
+    "price": 26.12
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2001",
+    "price": 26.95
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2002",
+    "price": 25.92
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2002",
+    "price": 23.73
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2002",
+    "price": 24.53
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2002",
+    "price": 21.26
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2002",
+    "price": 20.71
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2002",
+    "price": 22.25
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2002",
+    "price": 19.52
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2002",
+    "price": 19.97
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2002",
+    "price": 17.79
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2002",
+    "price": 21.75
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2002",
+    "price": 23.46
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2002",
+    "price": 21.03
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2003",
+    "price": 19.31
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2003",
+    "price": 19.34
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2003",
+    "price": 19.76
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2003",
+    "price": 20.87
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2003",
+    "price": 20.09
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2003",
+    "price": 20.93
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2003",
+    "price": 21.56
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2003",
+    "price": 21.65
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2003",
+    "price": 22.69
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2003",
+    "price": 21.45
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2003",
+    "price": 21.1
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2003",
+    "price": 22.46
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2004",
+    "price": 22.69
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2004",
+    "price": 21.77
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2004",
+    "price": 20.46
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2004",
+    "price": 21.45
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2004",
+    "price": 21.53
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2004",
+    "price": 23.44
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2004",
+    "price": 23.38
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2004",
+    "price": 22.47
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2004",
+    "price": 22.76
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2004",
+    "price": 23.02
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2004",
+    "price": 24.6
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2004",
+    "price": 24.52
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2005",
+    "price": 24.11
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2005",
+    "price": 23.15
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2005",
+    "price": 22.24
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2005",
+    "price": 23.28
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2005",
+    "price": 23.82
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2005",
+    "price": 22.93
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2005",
+    "price": 23.64
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2005",
+    "price": 25.35
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2005",
+    "price": 23.83
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2005",
+    "price": 23.8
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2005",
+    "price": 25.71
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2005",
+    "price": 24.29
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2006",
+    "price": 26.14
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2006",
+    "price": 25.04
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2006",
+    "price": 25.36
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2006",
+    "price": 22.5
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2006",
+    "price": 21.19
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2006",
+    "price": 21.8
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2006",
+    "price": 22.51
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2006",
+    "price": 24.13
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2006",
+    "price": 25.68
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2006",
+    "price": 26.96
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2006",
+    "price": 27.66
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2006",
+    "price": 28.13
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2007",
+    "price": 29.07
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2007",
+    "price": 26.63
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2007",
+    "price": 26.35
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2007",
+    "price": 28.3
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2007",
+    "price": 29.11
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2007",
+    "price": 27.95
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2007",
+    "price": 27.5
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2007",
+    "price": 27.34
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2007",
+    "price": 28.04
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2007",
+    "price": 35.03
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2007",
+    "price": 32.09
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2007",
+    "price": 34
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2008",
+    "price": 31.13
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2008",
+    "price": 26.07
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2008",
+    "price": 27.21
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2008",
+    "price": 27.34
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2008",
+    "price": 27.25
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2008",
+    "price": 26.47
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2008",
+    "price": 24.75
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2008",
+    "price": 26.36
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2008",
+    "price": 25.78
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2008",
+    "price": 21.57
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2008",
+    "price": 19.66
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2008",
+    "price": 18.91
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2009",
+    "price": 16.63
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2009",
+    "price": 15.81
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2009",
+    "price": 17.99
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Apr 2009",
+    "price": 19.84
+  },
+  {
+    "symbol": "NORTE",
+    "date": "May 2009",
+    "price": 20.59
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jun 2009",
+    "price": 23.42
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jul 2009",
+    "price": 23.18
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Aug 2009",
+    "price": 24.43
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Sep 2009",
+    "price": 25.49
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Oct 2009",
+    "price": 27.48
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Nov 2009",
+    "price": 29.27
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Dec 2009",
+    "price": 30.34
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Jan 2010",
+    "price": 28.05
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Feb 2010",
+    "price": 28.67
+  },
+  {
+    "symbol": "NORTE",
+    "date": "Mar 2010",
+    "price": 28.8
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2000",
+    "price": 64.56
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2000",
+    "price": 68.87
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2000",
+    "price": 67
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2000",
+    "price": 55.19
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2000",
+    "price": 48.31
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2000",
+    "price": 36.31
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2000",
+    "price": 30.12
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2000",
+    "price": 41.5
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2000",
+    "price": 38.44
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2000",
+    "price": 36.62
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2000",
+    "price": 24.69
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2000",
+    "price": 15.56
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2001",
+    "price": 17.31
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2001",
+    "price": 10.19
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2001",
+    "price": 10.23
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2001",
+    "price": 15.78
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2001",
+    "price": 16.69
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2001",
+    "price": 14.15
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2001",
+    "price": 12.49
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2001",
+    "price": 8.94
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2001",
+    "price": 5.97
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2001",
+    "price": 6.98
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2001",
+    "price": 11.32
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2001",
+    "price": 10.82
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2002",
+    "price": 14.19
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2002",
+    "price": 14.1
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2002",
+    "price": 14.3
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2002",
+    "price": 16.69
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2002",
+    "price": 18.23
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2002",
+    "price": 16.25
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2002",
+    "price": 14.45
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2002",
+    "price": 14.94
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2002",
+    "price": 15.93
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2002",
+    "price": 19.36
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2002",
+    "price": 23.35
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2002",
+    "price": 18.89
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2003",
+    "price": 21.85
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2003",
+    "price": 22.01
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2003",
+    "price": 26.03
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2003",
+    "price": 28.69
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2003",
+    "price": 35.89
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2003",
+    "price": 36.32
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2003",
+    "price": 41.64
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2003",
+    "price": 46.32
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2003",
+    "price": 48.43
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2003",
+    "price": 54.43
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2003",
+    "price": 53.97
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2003",
+    "price": 52.62
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2004",
+    "price": 50.4
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2004",
+    "price": 43.01
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2004",
+    "price": 43.28
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2004",
+    "price": 43.6
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2004",
+    "price": 48.5
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2004",
+    "price": 54.4
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2004",
+    "price": 38.92
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2004",
+    "price": 38.14
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2004",
+    "price": 40.86
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2004",
+    "price": 34.13
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2004",
+    "price": 39.68
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2004",
+    "price": 44.29
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2005",
+    "price": 43.22
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2005",
+    "price": 35.18
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2005",
+    "price": 34.27
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2005",
+    "price": 32.36
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2005",
+    "price": 35.51
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2005",
+    "price": 33.09
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2005",
+    "price": 45.15
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2005",
+    "price": 42.7
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2005",
+    "price": 45.3
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2005",
+    "price": 39.86
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2005",
+    "price": 48.46
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2005",
+    "price": 47.15
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2006",
+    "price": 44.82
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2006",
+    "price": 37.44
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2006",
+    "price": 36.53
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2006",
+    "price": 35.21
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2006",
+    "price": 34.61
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2006",
+    "price": 38.68
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2006",
+    "price": 26.89
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2006",
+    "price": 30.83
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2006",
+    "price": 32.12
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2006",
+    "price": 38.09
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2006",
+    "price": 40.34
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2006",
+    "price": 39.46
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2007",
+    "price": 37.67
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2007",
+    "price": 39.14
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2007",
+    "price": 39.79
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2007",
+    "price": 61.33
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2007",
+    "price": 69.14
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2007",
+    "price": 68.41
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2007",
+    "price": 78.54
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2007",
+    "price": 79.91
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2007",
+    "price": 93.15
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2007",
+    "price": 89.15
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2007",
+    "price": 90.56
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2007",
+    "price": 92.64
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2008",
+    "price": 77.7
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2008",
+    "price": 64.47
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2008",
+    "price": 71.3
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2008",
+    "price": 78.63
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2008",
+    "price": 81.62
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2008",
+    "price": 73.33
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2008",
+    "price": 76.34
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2008",
+    "price": 80.81
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2008",
+    "price": 72.76
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2008",
+    "price": 57.24
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2008",
+    "price": 42.7
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2008",
+    "price": 51.28
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2009",
+    "price": 58.82
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2009",
+    "price": 64.79
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2009",
+    "price": 73.44
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Apr 2009",
+    "price": 80.52
+  },
+  {
+    "symbol": "ESTE",
+    "date": "May 2009",
+    "price": 77.99
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jun 2009",
+    "price": 83.66
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jul 2009",
+    "price": 85.76
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Aug 2009",
+    "price": 81.19
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Sep 2009",
+    "price": 93.36
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Oct 2009",
+    "price": 118.81
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Nov 2009",
+    "price": 135.91
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Dec 2009",
+    "price": 134.52
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Jan 2010",
+    "price": 125.41
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Feb 2010",
+    "price": 118.4
+  },
+  {
+    "symbol": "ESTE",
+    "date": "Mar 2010",
+    "price": 128.82
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2000",
+    "price": 100.52
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2000",
+    "price": 92.11
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2000",
+    "price": 106.11
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2000",
+    "price": 99.95
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2000",
+    "price": 96.31
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2000",
+    "price": 98.33
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2000",
+    "price": 100.74
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2000",
+    "price": 118.62
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2000",
+    "price": 101.19
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2000",
+    "price": 88.5
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2000",
+    "price": 84.12
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2000",
+    "price": 76.47
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2001",
+    "price": 100.76
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2001",
+    "price": 89.98
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2001",
+    "price": 86.63
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2001",
+    "price": 103.7
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2001",
+    "price": 100.82
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2001",
+    "price": 102.35
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2001",
+    "price": 94.87
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2001",
+    "price": 90.25
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2001",
+    "price": 82.82
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2001",
+    "price": 97.58
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2001",
+    "price": 104.5
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2001",
+    "price": 109.36
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2002",
+    "price": 97.54
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2002",
+    "price": 88.82
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2002",
+    "price": 94.15
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2002",
+    "price": 75.82
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2002",
+    "price": 72.97
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2002",
+    "price": 65.31
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2002",
+    "price": 63.86
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2002",
+    "price": 68.52
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2002",
+    "price": 53.01
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2002",
+    "price": 71.76
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2002",
+    "price": 79.16
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2002",
+    "price": 70.58
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2003",
+    "price": 71.22
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2003",
+    "price": 71.13
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2003",
+    "price": 71.57
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2003",
+    "price": 77.47
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2003",
+    "price": 80.48
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2003",
+    "price": 75.42
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2003",
+    "price": 74.28
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2003",
+    "price": 75.12
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2003",
+    "price": 80.91
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2003",
+    "price": 81.96
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2003",
+    "price": 83.08
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2003",
+    "price": 85.05
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2004",
+    "price": 91.06
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2004",
+    "price": 88.7
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2004",
+    "price": 84.41
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2004",
+    "price": 81.04
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2004",
+    "price": 81.59
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2004",
+    "price": 81.19
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2004",
+    "price": 80.19
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2004",
+    "price": 78.17
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2004",
+    "price": 79.13
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2004",
+    "price": 82.84
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2004",
+    "price": 87.15
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2004",
+    "price": 91.16
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2005",
+    "price": 86.39
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2005",
+    "price": 85.78
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2005",
+    "price": 84.66
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2005",
+    "price": 70.77
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2005",
+    "price": 70.18
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2005",
+    "price": 68.93
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2005",
+    "price": 77.53
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2005",
+    "price": 75.07
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2005",
+    "price": 74.7
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2005",
+    "price": 76.25
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2005",
+    "price": 82.98
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2005",
+    "price": 76.73
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2006",
+    "price": 75.89
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2006",
+    "price": 75.09
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2006",
+    "price": 77.17
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2006",
+    "price": 77.05
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2006",
+    "price": 75.04
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2006",
+    "price": 72.15
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2006",
+    "price": 72.7
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2006",
+    "price": 76.35
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2006",
+    "price": 77.26
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2006",
+    "price": 87.06
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2006",
+    "price": 86.95
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2006",
+    "price": 91.9
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2007",
+    "price": 93.79
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2007",
+    "price": 88.18
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2007",
+    "price": 89.44
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2007",
+    "price": 96.98
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2007",
+    "price": 101.54
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2007",
+    "price": 100.25
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2007",
+    "price": 105.4
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2007",
+    "price": 111.54
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2007",
+    "price": 112.6
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2007",
+    "price": 111
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2007",
+    "price": 100.9
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2007",
+    "price": 103.7
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2008",
+    "price": 102.75
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2008",
+    "price": 109.64
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2008",
+    "price": 110.87
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2008",
+    "price": 116.23
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2008",
+    "price": 125.14
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2008",
+    "price": 114.6
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2008",
+    "price": 123.74
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2008",
+    "price": 118.16
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2008",
+    "price": 113.53
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2008",
+    "price": 90.24
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2008",
+    "price": 79.65
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2008",
+    "price": 82.15
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2009",
+    "price": 89.46
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2009",
+    "price": 90.32
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2009",
+    "price": 95.09
+  },
+  {
+    "symbol": "SUR",
+    "date": "Apr 2009",
+    "price": 101.29
+  },
+  {
+    "symbol": "SUR",
+    "date": "May 2009",
+    "price": 104.85
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jun 2009",
+    "price": 103.01
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jul 2009",
+    "price": 116.34
+  },
+  {
+    "symbol": "SUR",
+    "date": "Aug 2009",
+    "price": 117
+  },
+  {
+    "symbol": "SUR",
+    "date": "Sep 2009",
+    "price": 118.55
+  },
+  {
+    "symbol": "SUR",
+    "date": "Oct 2009",
+    "price": 119.54
+  },
+  {
+    "symbol": "SUR",
+    "date": "Nov 2009",
+    "price": 125.79
+  },
+  {
+    "symbol": "SUR",
+    "date": "Dec 2009",
+    "price": 130.32
+  },
+  {
+    "symbol": "SUR",
+    "date": "Jan 2010",
+    "price": 121.85
+  },
+  {
+    "symbol": "SUR",
+    "date": "Feb 2010",
+    "price": 127.16
+  },
+  {
+    "symbol": "SUR",
+    "date": "Mar 2010",
+    "price": 125.55
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2000",
+    "price": 25.94
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2000",
+    "price": 28.66
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2000",
+    "price": 33.95
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2000",
+    "price": 31.01
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2000",
+    "price": 21
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2000",
+    "price": 26.19
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2000",
+    "price": 25.41
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2000",
+    "price": 30.47
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2000",
+    "price": 12.88
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2000",
+    "price": 9.78
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2000",
+    "price": 8.25
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2000",
+    "price": 7.44
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2001",
+    "price": 10.81
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2001",
+    "price": 9.12
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2001",
+    "price": 11.03
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2001",
+    "price": 12.74
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2001",
+    "price": 9.98
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2001",
+    "price": 11.62
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2001",
+    "price": 9.4
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2001",
+    "price": 9.27
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2001",
+    "price": 7.76
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2001",
+    "price": 8.78
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2001",
+    "price": 10.65
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2001",
+    "price": 10.95
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2002",
+    "price": 12.36
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2002",
+    "price": 10.85
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2002",
+    "price": 11.84
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2002",
+    "price": 12.14
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2002",
+    "price": 11.65
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2002",
+    "price": 8.86
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2002",
+    "price": 7.63
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2002",
+    "price": 7.38
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2002",
+    "price": 7.25
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2002",
+    "price": 8.03
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2002",
+    "price": 7.75
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2002",
+    "price": 7.16
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2003",
+    "price": 7.18
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2003",
+    "price": 7.51
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2003",
+    "price": 7.07
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2003",
+    "price": 7.11
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2003",
+    "price": 8.98
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2003",
+    "price": 9.53
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2003",
+    "price": 10.54
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2003",
+    "price": 11.31
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2003",
+    "price": 10.36
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2003",
+    "price": 11.44
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2003",
+    "price": 10.45
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2003",
+    "price": 10.69
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2004",
+    "price": 11.28
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2004",
+    "price": 11.96
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2004",
+    "price": 13.52
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2004",
+    "price": 12.89
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2004",
+    "price": 14.03
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2004",
+    "price": 16.27
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2004",
+    "price": 16.17
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2004",
+    "price": 17.25
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2004",
+    "price": 19.38
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2004",
+    "price": 26.2
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2004",
+    "price": 33.53
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2004",
+    "price": 32.2
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2005",
+    "price": 38.45
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2005",
+    "price": 44.86
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2005",
+    "price": 41.67
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2005",
+    "price": 36.06
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2005",
+    "price": 39.76
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2005",
+    "price": 36.81
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2005",
+    "price": 42.65
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2005",
+    "price": 46.89
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2005",
+    "price": 53.61
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2005",
+    "price": 57.59
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2005",
+    "price": 67.82
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2005",
+    "price": 71.89
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2006",
+    "price": 75.51
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2006",
+    "price": 68.49
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2006",
+    "price": 62.72
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2006",
+    "price": 70.39
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2006",
+    "price": 59.77
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2006",
+    "price": 57.27
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2006",
+    "price": 67.96
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2006",
+    "price": 67.85
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2006",
+    "price": 76.98
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2006",
+    "price": 81.08
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2006",
+    "price": 91.66
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2006",
+    "price": 84.84
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2007",
+    "price": 85.73
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2007",
+    "price": 84.61
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2007",
+    "price": 92.91
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2007",
+    "price": 99.8
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2007",
+    "price": 121.19
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2007",
+    "price": 122.04
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2007",
+    "price": 131.76
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2007",
+    "price": 138.48
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2007",
+    "price": 153.47
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2007",
+    "price": 189.95
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2007",
+    "price": 182.22
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2007",
+    "price": 198.08
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2008",
+    "price": 135.36
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2008",
+    "price": 125.02
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2008",
+    "price": 143.5
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2008",
+    "price": 173.95
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2008",
+    "price": 188.75
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2008",
+    "price": 167.44
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2008",
+    "price": 158.95
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2008",
+    "price": 169.53
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2008",
+    "price": 113.66
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2008",
+    "price": 107.59
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2008",
+    "price": 92.67
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2008",
+    "price": 85.35
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2009",
+    "price": 90.13
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2009",
+    "price": 89.31
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2009",
+    "price": 105.12
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Apr 2009",
+    "price": 125.83
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "May 2009",
+    "price": 135.81
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jun 2009",
+    "price": 142.43
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jul 2009",
+    "price": 163.39
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Aug 2009",
+    "price": 168.21
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Sep 2009",
+    "price": 185.35
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Oct 2009",
+    "price": 188.5
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Nov 2009",
+    "price": 199.91
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Dec 2009",
+    "price": 210.73
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Jan 2010",
+    "price": 192.06
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Feb 2010",
+    "price": 204.62
+  },
+  {
+    "symbol": "CENTRO",
+    "date": "Mar 2010",
+    "price": 223.02
+  }
+]

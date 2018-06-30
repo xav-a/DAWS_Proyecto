@@ -1,4 +1,4 @@
-
+(function () {
 //$("div#Resumen").append($("<div>", {id:"pie", class: "col-sm-4"}));
 
 var width = $("div#Resumen").width() * 0.75;
@@ -59,3 +59,5 @@ d3.csv("../data/dat1.csv", function(d) {
 		.attr("dy", "0.35em")
 		.text(function(d) { return d.data.Sector; });
 });
+
+})();
