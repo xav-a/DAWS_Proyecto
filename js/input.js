@@ -71,8 +71,9 @@ function drawChart(jsonfile) {
 	
 }
 
-$("input#seleccion").on("change", function(){
-	let seleccion = $(this).val();	
+$("select#seleccion").on("change", function(){
+	let seleccion = $(this).find(":selected").val();	
+	
 	$("div#canton-chart").find("svg").remove();
 	$.ajax({
 		url: "../data/cantones/cantones.xml",
