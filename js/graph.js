@@ -7,7 +7,7 @@ var radius = Math.min(width, height) /2;
 
 const svg = d3.select("div#Resumen").append("svg")
 	.attr("id","spie")
-	.attr("width", '100%')
+	//.attr("width", '100%')
     .attr("height", '100%')
 	.attr('viewBox',-1*Math.min(width,height)/1.75 +' '+-1*Math.min(width,height)/1.75+ ' '+Math.min(width,height)*1.25 +' '+Math.min(width,height)*1.25 )
     .attr('preserveAspectRatio','xMinYMin')
