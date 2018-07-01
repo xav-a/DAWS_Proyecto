@@ -1,6 +1,9 @@
 /* CSS Stylesheet */
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 
+* {
+	border: 1px solid red;
+}
 
 header > h1,h2{
     text-align: center;
@@ -25,9 +28,27 @@ footer img{
 	width: 75%;
 }
 
+h3 + p:first-letter{ 
+    font-size: 180%;
+    color: black;
+}
+
+
+div#Resumen {
+	width: 100%;
+}
+
 div#Resultados img{
 	width: 100%;
 	height: auto;
+}
+
+.nav-item:active {
+	background-color: #5e6872;
+}
+
+.nav-link:visited {
+	color: rgb(184, 192, 201);
 }
 
 .tab {
@@ -52,10 +73,9 @@ div#Resultados img{
 }
 
 
-.tab button:hover {
+.tab button:hover, button:focus {
     background-color: #ddd;
 }
-
 
 .tabcontent {
     animation: fadeEffect 1s;
@@ -67,6 +87,14 @@ div#Resultados img{
     overflow-y:scroll;
 }
 
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px)  {
+	.tab button {
+		text-align:center;
+	}
+}
 
 @keyframes fadeEffect {
     from {opacity: 0;}

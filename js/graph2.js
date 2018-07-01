@@ -8,9 +8,9 @@ var height = $("div#Resumen").height() * 0.75;
 
 const svg2 = d3.select("div#Resumen").append("svg")
 	.attr("id","sbar")
-	.attr("width", '100%')
+	//.attr("width", '100%')
     .attr("height", '100%')
-	.attr('viewBox',-1*Math.min(width,height)/3.5 +' '+-1*Math.min(width,height)/10+ ' '+Math.min(width,height) +' '+Math.min(width,height)*1.25 )
+	.attr('viewBox',-1*Math.min(width,height)/3.5 +' '+-1*Math.min(width,height)/10+ ' '+Math.min(width,height)*2 +' '+Math.min(width,height)*1.25 )
     .attr('preserveAspectRatio','xMinYMin')
 	//.attr("transform", "translate(" + Math.min(width,height) / 2 + "," + Math.min(width,height) / 2 + ")")
     ,margin = {top: 20, right: 20, bottom: 30, left: 80};
