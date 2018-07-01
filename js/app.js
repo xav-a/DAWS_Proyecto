@@ -20,3 +20,16 @@ function showTab(evt, id) {
     document.getElementById(id).style.display = "block";
     evt.currentTarget.className += "active";
 }
+
+function initMap() {
+	$("div#Home").find(".row").height("100%");
+	$("div#map").height("100%");	
+	// Initialize and add the map
+	// The location of Guayas
+	const guayas = {lat: -2.1710, lng: -79.9223};
+	// The map, centered at Guayas
+	var map = new google.maps.Map(
+		document.getElementById('map'), {zoom: 8, center: guayas});
+	// The marker, positioned at Guayas
+	var marker = new google.maps.Marker({position: guayas, map: map});
+}

@@ -16,6 +16,11 @@ footer img{
 	width: 75%;
 }
 
+div#Resultados img{
+	width: 100%;
+	height: auto;
+}
+
 .tab {
     
     border: 1px solid #ccc;

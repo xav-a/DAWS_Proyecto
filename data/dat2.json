@@ -1,8 +1,8 @@
 [
-    {"area": "Centro", "value": 18000},
+    {"area": "Norte", "value": 18000},
     {"area": "NorEste", "value": 17000},
     {"area": "SurEste", "value": 80000},
-    {"area": "Norte", "value": 55000},
-    {"area": "NorOeste ", "value": 100000},
+    {"area": "NorOeste", "value": 55000},
+    {"area": "Centro ", "value": 100000},
     {"area": "Sur", "value": 50000}
 ]
