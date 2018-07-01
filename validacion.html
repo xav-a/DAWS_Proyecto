@@ -6,6 +6,8 @@
 				<link rel="stylesheet" href="bs/css/bootstrap.css">
 				<link rel="stylesheet" href="bs/css/bootstrap-grid.css">
 				<link rel="stylesheet" href="css/proyecto.css">
+				<link rel="stylesheet" href="css/gallery.css">
+				<script src="js/gallery.js"></script>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		</head>
@@ -36,10 +38,82 @@
 
 					
 					<div class="row">
+						 <!-- Images used to open the lightbox -->
 						
-					
+						<div class="col-sm-3">
+							<img src="img/index_val.PNG" onclick="openModal();currentSlide(1)" class="hover-shadow">
+						</div>
+						<div class="col-sm-3">
+							<img src="img/about_val.PNG" onclick="openModal();currentSlide(2)" class="hover-shadow">
+						</div>
+						<div class="col-sm-3">
+							<img src="img/quienessomos_val.PNG" onclick="openModal();currentSlide(3)" class="hover-shadow">
+						</div>
+						<div class="col-sm-3">
+							<img src="img/contactenos_val.PNG" onclick="openModal();currentSlide(4)" class="hover-shadow">
+						</div>
 					</div>
-					
+							
+							<!-- The Modal/Lightbox -->
+							
+					<div id="myModal" class="modal">
+						<div class="container-fluid">
+							<div class="row">
+								<div class="col-12">
+									<span class="close cursor" onclick="closeModal()">&times;</span>
+									<div class="modal-content">
+								
+										<div class="mySlides">
+											<div class="numbertext">1 / 4</div>
+											<img src="img/index_val.PNG" style="width:100%">
+										</div>
+									
+										<div class="mySlides">
+											<div class="numbertext">2 / 4</div>
+											<img src="img/about_val.PNG" style="width:100%">
+										</div>
+									
+										<div class="mySlides">
+											<div class="numbertext">3 / 4</div>
+											<img src="img/quienessomos_val.PNG" style="width:100%">
+										</div>
+									
+										<div class="mySlides">
+											<div class="numbertext">4 / 4</div>
+											<img src="img/contactenos_val.PNG" style="width:100%">
+										</div>
+									
+										<!-- Next/previous controls -->
+										<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+										<a class="next" onclick="plusSlides(1)">&#10095;</a>
+								
+										<!-- Caption text -->
+										<div class="caption-container">
+											<p id="caption"></p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<!-- Thumbnail image controls -->
+								<div class="col-3">
+									<img class="demo" src="img/index_val.PNG" onclick="currentSlide(1)" alt="index validation">
+								</div>
+							
+								<div class="col-3">
+									<img class="demo" src="img/about_val.PNG" onclick="currentSlide(2)" alt="about validation">
+								</div>
+							
+								<div class="col-3">
+									<img class="demo" src="img/quienessomos_val.PNG" onclick="currentSlide(3)" alt="quienes somos validation">
+								</div>
+							
+								<div class="col-3">
+									<img class="demo" src="img/contactenos_val.PNG" onclick="currentSlide(4)" alt="contactenos validation">
+								</div>
+							</div>
+						</div>
+					</div>
 					
 					<div class="row">
 						<div class="col-12">
