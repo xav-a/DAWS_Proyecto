@@ -1,0 +1,20 @@
+<cantones>
+	<canton nombre="Guayaquil">
+		<info>
+		Ut efficitur leo et nunc semper accumsan. Fusce sit amet enim porttitor, rutrum libero a, luctus lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ornare eleifend turpis non feugiat. Sed posuere justo vitae rutrum lobortis. In hendrerit convallis erat quis ultrices. Maecenas nibh eros, porta varius dapibus quis, viverra ac augue. Morbi pharetra consectetur mollis. Morbi et odio diam. Vestibulum erat lectus, laoreet a cursus a, tincidunt in tellus. Proin sed eros ac ex tincidunt bibendum non eu nibh. Maecenas non justo vel nibh sagittis accumsan at eget dui. Integer sed imperdiet augue.
+		</info>
+		<archivo ruta="cantones/guayaquil.json"></archivo>
+	</canton>
+	<canton nombre="Daule">
+		<info>
+		Donec eu ex sed lacus ultricies blandit. Vestibulum metus ante, lobortis nec diam et, tincidunt lacinia turpis. Morbi facilisis volutpat dapibus. Pellentesque viverra, lacus a semper tempus, dolor ante volutpat felis, ut pretium orci sem et est. Nullam pharetra feugiat lacus a consectetur. Morbi porttitor tincidunt ipsum et tempus. Aenean orci leo, congue id tellus quis, dictum consectetur purus. Phasellus pellentesque lorem vel pulvinar porta. Integer ac lorem posuere, cursus nibh ac, cursus dolor. Sed ut dictum ante.
+		</info>
+		<archivo ruta="cantones/daule.json"></archivo>
+	</canton>
+	<canton nombre="Duran">
+		<info>
+		Cras varius condimentum lobortis. Quisque id sagittis enim, vel molestie ipsum. Fusce ac justo commodo diam interdum ultrices. Donec eget pellentesque sem. Sed sollicitudin, mi id semper porta, dolor sapien volutpat lectus, et egestas nisl nisl non neque. Nullam a porttitor enim. Curabitur vulputate quis metus sit amet convallis. Phasellus id efficitur orci.
+		</info>
+		<archivo ruta="cantones/duran.json"></archivo>
+	</canton>
+</cantones>

@@ -29,10 +29,9 @@ const label = d3.arc()
     .innerRadius(radius - 40);
 
 d3.csv("../data/dat1.csv", function(d) {
-  d.population = +d.population;
-  return d;
-}, function(error, data) {
-  if (error) throw error;
+	return d;
+	}, function(error, data) {
+	if (error) throw error;
 	
 	var tots = d3.sum(data, function(d) { 
             	return d.values; 

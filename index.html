@@ -14,6 +14,7 @@
 				<script src="js/graph.js" defer></script>
 				<script src="js/graph2.js" defer></script>
 				<script src="js/graph3.js" defer></script>
+				<script src="js/input.js" defer></script>
 		</head>
 		<body>
 				<div class="container">
@@ -57,7 +58,23 @@
 								
 							</div>
 							<div id="Datos" class="tabcontent">
-								datos 
+								<div class="form-group">
+									<input class="form-control" id="seleccion" list="cantones" placeholder="Canton">										
+									<datalist id="cantones">
+										<option>Guayaquil</option>
+										<option>Daule</option>
+										<option>Duran</option>
+									</datalist>
+								</div>
+									<div class="row">
+									<div id="canton-info" class="col-sm-8">
+										<h3>H</h3>
+										<p>Lorem ipsum whatever</p>
+									</div>
+									<div id="canton-chart" class="col-sm-4">
+									</div>
+								</div>
+								
 							</div>
 							<div id="Resultados" class="tabcontent">
 								resultados

@@ -1,0 +1,22 @@
+[
+ {
+   "Sector": "A",
+   "Ingresos": 200
+ },
+ {
+   "Sector": "B",
+   "Ingresos": 42
+ },
+ {
+   "Sector": "C",
+   "Ingresos": 69
+ },
+ {
+   "Sector": "D",
+   "Ingresos": 100
+ },
+ {
+   "Sector": "E",
+   "Ingresos": 320
+ }
+]
