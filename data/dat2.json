@@ -1,8 +1,8 @@
 [
-    {"area": "central ", "value": 18000},
-    {"area": "Riverside ", "value": 17000},
-    {"area": "Picton ", "value": 80000},
-    {"area": "Everton ", "value": 55000},
-    {"area": "Kensington ", "value": 100000},
-    {"area": "Kirkdale", "value": 50000}
+    {"area": "Norte", "value": 18000},
+    {"area": "NorEste", "value": 17000},
+    {"area": "SurEste", "value": 80000},
+    {"area": "NorOeste", "value": 55000},
+    {"area": "Centro ", "value": 100000},
+    {"area": "Sur", "value": 50000}
 ]

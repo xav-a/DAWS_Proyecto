@@ -13,7 +13,9 @@
 				
 				<script src="js/graph.js" defer></script>
 				<script src="js/graph2.js" defer></script>
-				
+				<script src="js/graph3.js" defer></script>
+				<script src="js/input.js" defer></script>
+				<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDt3Pfkhw7Jh6zUrU3IdFiP4sO-5J__nPQ&callback=initMap" defer></script>
 		</head>
 		<body>
 				<div class="container">
@@ -43,25 +45,58 @@
 					<div class="row">
 						<div class="col-3">
 							<div class="tab">
-								<button class="tablinks" onclick="showTab(event, 'home')" id="defaultOpen">home</button>
+								<button class="tablinks" onclick="showTab(event, 'Home')" id="defaultOpen">Home</button>
 								<button class="tablinks" onclick="showTab(event, 'Resumen')">Resumen General</button>
 								<button class="tablinks" onclick="showTab(event, 'Datos')">Datos por Canton</button>
 								<button class="tablinks" onclick="showTab(event, 'Resultados')">Resultados</button>
 							</div>	
 						</div>
 						<div class="col-9">
-							
-							<div id="home" class="tabcontent">
-								home
+							<div id="Home" class="tabcontent">
+								<div class="row">
+									<div class="col-sm-5">
+										<ul>
+											<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+											<li>Morbi finibus mi a erat ullamcorper dapibus.</li>
+											<li>Aenean dapibus nulla vel quam blandit bibendum.</li>
+										</ul>
+									</div>
+									<div id="map" class="col-sm-7">
+									</div>
+								</div>
 							</div>
 							<div id="Resumen" class="tabcontent">
 								
 							</div>
 							<div id="Datos" class="tabcontent">
-								datos 
+								<div class="form-group">
+									<input class="form-control" id="seleccion" list="cantones" placeholder="Canton">										
+									<datalist id="cantones">
+										<option>Guayaquil</option>
+										<option>Daule</option>
+										<option>Duran</option>
+									</datalist>
+								</div>
+									<div class="row">
+									<div id="canton-info" class="col-sm-8">
+										<h3></h3>
+										<p></p>
+									</div>
+									<div id="canton-chart" class="col-sm-4">
+									</div>
+								</div>
+								
 							</div>
 							<div id="Resultados" class="tabcontent">
-								resultados
+								<div class="row">
+									<div id="results" class="col-sm-12">
+										<h3>Resultados</h3>
+										<p>Donec varius, ante nec fringilla ultrices, eros urna rutrum metus, eget mollis nunc neque sit amet lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed leo enim, commodo et nisi eu, porta imperdiet nulla. Nunc sodales cursus risus nec mattis. Nunc accumsan nisi et dui pulvinar cursus ac non enim. Cras rhoncus urna lorem, eu semper sem condimentum sed. Suspendisse in ante nulla. Integer semper dapibus dui, congue venenatis lorem gravida sed.</p>
+									</div>									
+									<div class="col-sm-12">									
+										<img src="img/resultados.png" class="img-responsive" alt="resultados">
+									</div>
+								</div>
 							</div>
 							
 
