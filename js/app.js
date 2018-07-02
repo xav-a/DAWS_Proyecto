@@ -23,7 +23,8 @@ function showTab(evt, id) {
 
 function initMap() {
 	$("div#Home").find(".row").height("100%");
-	$("div#map").height("100%");	
+    $("div#map").width("100%");	
+    $("div#map").height("450px");	
 	// Initialize and add the map
 	// The location of Guayas
 	const guayas = {lat: -2.1710, lng: -79.9223};
