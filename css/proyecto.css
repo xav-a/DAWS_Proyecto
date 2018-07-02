@@ -5,13 +5,42 @@
 	border: 1px solid red;
 } */
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 header > h1,h2{
     text-align: center;
 	font-family: 'Oswald', sans-serif;
 }
 
+body {
+    margin: 0 0 100px;
+    
+    padding: 25px;
+}
+
+div.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    
+}
+div.row{
+    flex:1;
+}
+
 footer {
-	border: 1px solid #ccc;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    
+}
+#footer{
+    border: 1px solid #ccc;
 }
 
 footer img{
