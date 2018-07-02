@@ -32,12 +32,12 @@ function drawChart(jsonfile) {
 		.value(function(d) { return d.Ingresos; });
 	
 	const path = d3.arc()
-		.outerRadius(radius - 10)
-		.innerRadius(radius/3);
+		.outerRadius(radius)
+		.innerRadius(0);
 	
 	const label = d3.arc()
-		.outerRadius(radius - 40)
-		.innerRadius(radius - 40);
+		.outerRadius(radius)
+		.innerRadius(radius/3);
 	
 	d3.json(jsonfile, function(error, data) {
 		if (error) throw error;
