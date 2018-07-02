@@ -1,8 +1,8 @@
 (function() {
 var margin3 = {top: 30, right: 20, bottom: 70, left: 50},
     width = $("div#Resumen").width() * 0.75 - margin3.left - margin3.right,
-    height = $("div#Resumen").height() * 0.75 - margin3.top - margin3.bottom;
-
+    height = 123.5;
+    
 // Parse the date / time
 var parseDate = d3.timeParse("%b %Y");
 
@@ -19,7 +19,7 @@ const priceline = d3.line()
 const svg3 = d3.select("div#Resumen")
     .append("svg")
         .attr("width", "100%")
-        .attr("height", "100%")
+        .attr("height", "300px")
 		.attr('viewBox',-1*margin3.left+' '+-1*margin3.top + ' '+Math.max(width,height)+' '+Math.min(width,height)*1.9)
 		.attr('preserveAspectRatio','xMinYMin')
     .append("g");

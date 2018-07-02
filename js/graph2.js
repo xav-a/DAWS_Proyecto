@@ -2,14 +2,13 @@
 //$("div#Resumen").append($("<div>", {id:"bar", class: "col-sm-4"}));
 
 var width = $("div#Resumen").width() * 0.75;
-var height = $("div#Resumen").height() * 0.75;
-
+var height = 223.5
 //----
 
 const svg2 = d3.select("div#Resumen").append("svg")
 	.attr("id","sbar")
-	//.attr("width", '100%')
-    .attr("height", '100%')
+	.attr("width", '100%')
+    .attr("height", '300px')
 	.attr('viewBox',-1*Math.min(width,height)/3.5 +' '+-1*Math.min(width,height)/10+ ' '+Math.min(width,height)*2 +' '+Math.min(width,height)*1.25 )
     .attr('preserveAspectRatio','xMinYMin')
 	//.attr("transform", "translate(" + Math.min(width,height) / 2 + "," + Math.min(width,height) / 2 + ")")
