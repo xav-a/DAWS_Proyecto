@@ -11,161 +11,159 @@
 
 		</head>
 		<body>
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-							<header>
-									<h1>Guayaquil Transactions</h1>
-									<h2>Validación con W3</h2>
-							</header>
-						</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<header>
+								<h1>Guayaquil Transactions</h1>
+								<h2>Validación con W3</h2>
+						</header>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-12">
+						<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+							<ul class="nav navbar-nav">
+								<li class="nav-item"><a class="nav-link" href="index.html">Dash</a></li>
+								<li class="nav-item"><a class="nav-link" href="about.html">Sobre el proyecto</a></li>
+								<li class="nav-item"><a class="nav-link" href="quienessomos.html">Quienes Somos?</a></li>
+								<li class="nav-item"><a class="nav-link" href="contactenos.html">Contáctenos</a></li>
+								<li class="nav-item"><a class="nav-link" href="validacion.html">Validacion</a></li>
+								<li class="nav-item"><a class="nav-link" href="timeline.html">Procesos</a></li>
+							</ul>	
+						</nav>
+					</div>
 					</div>
 
-					<div class="row">
-                        <div class="col-12">
-                            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-                                <ul class="nav navbar-nav">
-                                    <li class="nav-item"><a class="nav-link" href="index.html">Dash</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="about.html">Sobre el proyecto</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="quienessomos.html">Quienes Somos?</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="contactenos.html">Contáctenos</a></li>
-									<li class="nav-item"><a class="nav-link" href="validacion.html">Validacion</a></li>
-									<li class="nav-item"><a class="nav-link" href="timeline.html">Procesos</a></li>
-                                </ul>	
-                            </nav>
-                        </div>
-                     </div>
-
+				
+				<div class="row">
+						<!-- Images used to open the lightbox -->
 					
-					<div class="row">
-						 <!-- Images used to open the lightbox -->
+					<div class="col-sm-6">
+						<img src="img/index_val.PNG" alt="Validacion Index" onclick="openModal();currentSlide(1)" class="hover-shadow">
+					</div>
+					<div class="col-sm-6">
+						<img src="img/about_val.PNG" alt="Validacion About" onclick="openModal();currentSlide(2)" class="hover-shadow">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						<img src="img/quienessomos_val.PNG" alt="Validacion Quienes Somos" onclick="openModal();currentSlide(3)" class="hover-shadow">
+					</div>
+					<div class="col-sm-6">
+						<img src="img/contactenos_val.PNG" alt="Validacion Contactenos" onclick="openModal();currentSlide(4)" class="hover-shadow">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						<img src="img/timeline_val.PNG" alt="Validacion Timeline" onclick="openModal();currentSlide(5)" class="hover-shadow">
+					</div>
+					<div class="col-sm-6">
+						<img src="img/validacion_val.PNG" alt="Validacion" onclick="openModal();currentSlide(6)" class="hover-shadow">
+					</div>
+				</div>
 						
-						<div class="col-sm-6">
-							<img src="img/index_val.PNG" alt="Validacion Index" onclick="openModal();currentSlide(1)" class="hover-shadow">
-						</div>
-						<div class="col-sm-6">
-							<img src="img/about_val.PNG" alt="Validacion About" onclick="openModal();currentSlide(2)" class="hover-shadow">
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<img src="img/quienessomos_val.PNG" alt="Validacion Quienes Somos" onclick="openModal();currentSlide(3)" class="hover-shadow">
-						</div>
-						<div class="col-sm-6">
-							<img src="img/contactenos_val.PNG" alt="Validacion Contactenos" onclick="openModal();currentSlide(4)" class="hover-shadow">
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<img src="img/timeline_val.PNG" alt="Validacion Timeline" onclick="openModal();currentSlide(5)" class="hover-shadow">
-						</div>
-						<div class="col-sm-6">
-							<img src="img/validacion_val.PNG" alt="Validacion" onclick="openModal();currentSlide(6)" class="hover-shadow">
-						</div>
-					</div>
+						<!-- The Modal/Lightbox -->
+						
+				<div id="myModal" class="modal">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-12">
+								<span class="close cursor" onclick="closeModal()">&times;</span>
+								<div class="modal-content">
 							
-							<!-- The Modal/Lightbox -->
+									<div class="mySlides">
+										<div class="numbertext">1 / 6</div>
+										<img src="img/index_val.PNG" style="width:100%" alt="validacion">
+									</div>
+								
+									<div class="mySlides">
+										<div class="numbertext">2 / 6</div>
+										<img src="img/about_val.PNG" style="width:100%" alt="validacion">
+									</div>
+								
+									<div class="mySlides">
+										<div class="numbertext">3 / 6</div>
+										<img src="img/quienessomos_val.PNG" style="width:100%" alt="validacion">
+									</div>
+								
+									<div class="mySlides">
+										<div class="numbertext">4 / 6</div>
+										<img src="img/contactenos_val.PNG" style="width:100%" alt="validacion">
+									</div>
+									
+									<div class="mySlides">
+										<div class="numbertext">5 / 6</div>
+										<img src="img/timeline_val.PNG" style="width:100%" alt="validacion">
+									</div>
+									
+									
+									<div class="mySlides">
+										<div class="numbertext">6 / 6</div>
+										<img src="img/validacion_val.PNG" style="width:100%" alt="validacion">
+									</div>
+								
+									<!-- Next/previous controls -->
+									<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+									<a class="next" onclick="plusSlides(1)">&#10095;</a>
 							
-					<div id="myModal" class="modal">
-						<div class="container-fluid">
-							<div class="row">
-								<div class="col-12">
-									<span class="close cursor" onclick="closeModal()">&times;</span>
-									<div class="modal-content">
-								
-										<div class="mySlides">
-											<div class="numbertext">1 / 6</div>
-											<img src="img/index_val.PNG" style="width:100%" alt="validacion">
-										</div>
-									
-										<div class="mySlides">
-											<div class="numbertext">2 / 6</div>
-											<img src="img/about_val.PNG" style="width:100%" alt="validacion">
-										</div>
-									
-										<div class="mySlides">
-											<div class="numbertext">3 / 6</div>
-											<img src="img/quienessomos_val.PNG" style="width:100%" alt="validacion">
-										</div>
-									
-										<div class="mySlides">
-											<div class="numbertext">4 / 6</div>
-											<img src="img/contactenos_val.PNG" style="width:100%" alt="validacion">
-										</div>
-										
-										<div class="mySlides">
-											<div class="numbertext">5 / 6</div>
-											<img src="img/timeline_val.PNG" style="width:100%" alt="validacion">
-										</div>
-										
-										
-										<div class="mySlides">
-											<div class="numbertext">6 / 6</div>
-											<img src="img/validacion_val.PNG" style="width:100%" alt="validacion">
-										</div>
-									
-										<!-- Next/previous controls -->
-										<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-										<a class="next" onclick="plusSlides(1)">&#10095;</a>
-								
-										<!-- Caption text -->
-										<div class="caption-container">
-											<p id="caption"></p>
-										</div>
+									<!-- Caption text -->
+									<div class="caption-container">
+										<p id="caption"></p>
 									</div>
 								</div>
 							</div>
-							<div class="row">
-								<!-- Thumbnail image controls -->
-								<div class="col-3">
-									<img class="demo" src="img/index_val.PNG" onclick="currentSlide(1)" alt="index validation">
-								</div>
-							
-								<div class="col-3">
-									<img class="demo" src="img/about_val.PNG" onclick="currentSlide(2)" alt="about validation">
-								</div>
-							
-								<div class="col-3">
-									<img class="demo" src="img/quienessomos_val.PNG" onclick="currentSlide(3)" alt="quienes somos validation">
-								</div>
-							
-								<div class="col-3">
-									<img class="demo" src="img/contactenos_val.PNG" onclick="currentSlide(4)" alt="contactenos validation">
-								</div>
-								
-								<div class="col-3">
-									<img class="demo" src="img/timeline_val.PNG" onclick="currentSlide(5)" alt="timeline validation">
-								</div>
-								
-								<div class="col-3">
-									<img class="demo" src="img/validacion_val.PNG" onclick="currentSlide(6)" alt="validation">
-								</div>
-								
-							</div>
 						</div>
-					</div>
-					
-					<div class="row">
-						<div class="col-12">
-							<footer>
-								<div class="container"></div>
-									<div class="row">
-										<div class="col-xs-6 col-md-8">
-											<p>Escuela Superior Politécnica del Litoral <br>
-												Desarrollo de Aplicaciones Web <br>
-												All Rights Reserved. <br>
-											</p>
-										</div>
-										<div class="col-xs-6 col-md-4">
-											<img src="img/logoEspol.png" class="img-responsive" alt="ESPOL">
-											<img src="img/logoFiec.png" class="img-responsive" alt="FIEC">
-										</div>
-									</div>
-							</footer>
+						<div class="row">
+							<!-- Thumbnail image controls -->
+							<div class="col-3">
+								<img class="demo" src="img/index_val.PNG" onclick="currentSlide(1)" alt="index validation">
+							</div>
+						
+							<div class="col-3">
+								<img class="demo" src="img/about_val.PNG" onclick="currentSlide(2)" alt="about validation">
+							</div>
+						
+							<div class="col-3">
+								<img class="demo" src="img/quienessomos_val.PNG" onclick="currentSlide(3)" alt="quienes somos validation">
+							</div>
+						
+							<div class="col-3">
+								<img class="demo" src="img/contactenos_val.PNG" onclick="currentSlide(4)" alt="contactenos validation">
+							</div>
+							
+							<div class="col-3">
+								<img class="demo" src="img/timeline_val.PNG" onclick="currentSlide(5)" alt="timeline validation">
+							</div>
+							
+							<div class="col-3">
+								<img class="demo" src="img/validacion_val.PNG" onclick="currentSlide(6)" alt="validation">
+							</div>
+							
 						</div>
 					</div>
 				</div>
-			<script src="js/gallery.js"></script>
+				
+			</div>
+			<footer>
+				<div class="container">								
+					<div class="row" id="footer">
+						<div class="col-sm-8">
+							<p>Escuela Superior Politécnica del Litoral <br>
+								Desarrollo de Aplicaciones Web <br>
+								All Rights Reserved. <br>
+							</p>
+						</div>
+						<div class="col-sm-4">
+							<img src="img/logoEspol.png" class="img-responsive" alt="logoEspol">
+							<img src="img/logoFiec.png" class="img-responsive" alt="logoFiec">
+						</div>
+					</div>
+				</div>
+			</footer>
+					
+		<script src="js/gallery.js"></script>
 		</body>
 		
 </html>
